@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🎓 Final-year Data Science student passionate about building intelligent systems with AI/ML.<br>🐍 Skilled in Python and its data stack — NumPy, Pandas, Matplotlib, Seaborn, SQL, and Machine Learning with Scikit-learn.<br>🚀 Currently diving deep into Generative AI and Agentic AI, exploring how to solve real-world problems.<br>🎯 Aspiring AI/ML Engineer, always learning and building.
 
@@ -18,6 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Ibrahim45-git&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ibrahim45-git&icon=0&color=9)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Ibrahim45-git&icon=0&color=4)](https://visitcount.itsvg.in)
 
 
